@@ -1,0 +1,14 @@
+[Story]
+Reminder="Every line must have less than 1000 characters!"
+Title="History Archive"
+Author=""
+Description=""
+Chapters="1"
+ToBeContinued="True"
+
+[Chapter1]
+Prefix=""
+Title="Part 1"
+Chunks="2"
+Chunk1="In 1993, a team of scientists discovered a way of genetically incubating a dinosaur. Using a technique which involved extracting genetic material from viruses that had been around since the Jurassic Era, scientists found that they could create and breed dinosaurs. Once the scientists had proven their theory, they were quickly funded by a private organization called DinoTech.||DinoTech was purely interested in the scientific benefits of the project, never planning on marketing the dinosaurs, nor did they ever contemplate creating a theme park. DinoTech decided that the best way to study dinosaurs was to let them roam in a natural environment, thus DinoTech constructed a base on a small Island of the coast of New Zeland called Malculey Island.||In 1997, construction was completed and new personnel began to arrive on the island. The founding scientists of the project had gone from a small team with great ideas, to an organization with even greater ideas. The island contained many facilities built for the "
+Chunk2="scientists to study the dinosaurs. These buildings were isolated from the rest of the island by towering electric fences. The island was the most modern design of man to date, incorporating the most recent technology known. High-powered electric facilities, radar sensors, and life support systems were only a fraction of the islands capabilities.||By 2001, the scientists had created most dinosaurs known to man and began to not only watch and observe them, but also test them.||This afternoon, raptor broke out of a top security medical lab and escaped into jungle, killing several employees on his way. A few hours later, a majority of the velociraptors, roaming the island, started to behave in a demented fashion. Scientists suspect sabotage and food poisoning. They blamed worker incompetence, and low-level security. Security personnel accuses scientists of ressurecting a prehistoric virus. The sun has set, and all communication has gone offline..."

@@ -1,0 +1,97 @@
+[Credits]
+Categories="11"
+Intro="Jurassic Rage"
+
+[Category1]
+Name="Animation"
+Items="2"
+Item1="Hugo Silverio"
+Item2="Jamie 'Evil Smiley' Krautkremer"
+
+[Category2]
+Name="Concept Art"
+Items="1"
+Item1="D. 'Sapien' Newman"
+
+[Category3]
+Name="Level Design"
+Items="4"
+Item1="DGUnreal"
+Item2="Grompp"
+Item3="JediZebra101"
+Item4="Swifty-"
+
+[Category4]
+Name="Management"
+Items="5"
+Item1="Hugo Silverio"
+Item2="Jamie 'Evil Smiley' Krautkremer"
+Item3="Matthew 'Maty' McDonald"
+Item4="Rob 'd0cd' Johnson"
+Item5="Roman 'Switch`' Dzieciol"
+
+[Category5]
+Name="Models"
+Items="9"
+Item1="Abdi"
+Item2="Andy (F-22 RaptoR) Birmingham"
+Item3="Arman 'Armanguy' Abounourinejad"
+Item4="Fr33style"
+Item5="Jamie 'Evil Smiley' Krautkremer"
+Item6="L3NNY"
+Item7="Matthew 'Maty' McDonald"
+Item8="Rob 'd0cd' Johnson"
+Item9="Scott 'Scott01' Brunner"
+
+[Category6]
+Name="Music"
+Items="2"
+Item1="Esben Kramer (Esbenkramer@gmail.com)"
+Item2="The Blackwater Project"
+
+[Category7]
+Name="Programming"
+Items="2"
+Item1="Rob 'd0cd' Johnson"
+Item2="Roman 'Switch`' Dzieciol"
+
+[Category8]
+Name="Textures"
+Items="6"
+Item1="agro."
+Item2="Arman 'Armanguy' Abounourinejad"
+Item3="D. 'Sapien' Newman"
+Item4="Fr33style"
+Item5="JediZebra101"
+Item6="Matthew 'Maty' McDonald"
+
+[Category9]
+Name="Website"
+Items="2"
+Item1="agro."
+Item2="Zozart"
+
+[Category10]
+Name="Writing"
+Items="4"
+Item1="Andrew 'Dino' Harmathy"
+Item2="Jim 'HawkEye321' Dow"
+Item3="Towers"
+Item4="Zozart"
+
+[Category11]
+Name="Special Thanks"
+Items="7"
+Item1="Andrew 'Dino' Harmathy - Research"
+Item2="Andy (F-22 RaptoR) Birmingham - Weapons Consultant"
+Item3="DGUnreal - Technical Advisory"
+Item4="Jamie 'Evil Smiley' Krautkremer - FTP Administration"
+Item5="Jim 'HawkEye321' Dow - Paleontologist"
+Item6="Towers - Research"
+Item7="Zozart - IRC Administration"
+
+[Outro]
+Name="Jurassic Rage: Evolution II"
+Items="2"
+Item1="20th December 2006"
+Item2="www.jurassic-rage.com"

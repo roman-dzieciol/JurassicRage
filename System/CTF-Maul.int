@@ -1,0 +1,25 @@
+[LevelInfo0]
+Title="Maul"
+
+[LevelSummary]
+Title="Maul"
+Description="As you walk among the shattered ruins of the old retaining wall, the hip deep grass tugs at your clothes. The twisted skeleton of an ancient tree towers above you, giving lie to the fragile beauty that has slowly reclaimed the abandoned fueling station.||"
+
+[Volume0]
+LocationName="Blue Side"
+
+[Volume1]
+LocationName="Red Side"
+
+[Volume2]
+LocationName="Red Base"
+
+[Volume3]
+LocationName="Blue Base"
+
+[Volume4]
+LocationName="Blue Roof"
+
+[Volume5]
+LocationName="Red Roof"
+
